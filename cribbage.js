@@ -15,6 +15,10 @@ module.exports = class Cribbage {
 		console.log(this);
 	}
 
+  summary() {
+    return this.total;
+  }
+
 	static randomHand(len = 5) {
 		let result = [];
 		const suits = ["S", "C", "D", "H"];
