@@ -1,0 +1,24 @@
+{
+  "name": "cribbage",
+  "version": "1.0.0",
+  "description": "cribbage hand calculator",
+  "main": "cribbage.js",
+  "scripts": {
+    "test": "tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanThatOneKid/cribbage.git"
+  },
+  "keywords": [
+    "cards",
+    "stats",
+    "cribbage"
+  ],
+  "author": "EthanThatOneKid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanThatOneKid/cribbage/issues"
+  },
+  "homepage": "https://github.com/EthanThatOneKid/cribbage#readme"
+}
