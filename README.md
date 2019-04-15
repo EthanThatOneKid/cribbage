@@ -1,0 +1,2 @@
+# cribbage
+Cribbage hand calculations
